@@ -113,6 +113,30 @@ body{
         margin-left: 20px;
 
     }
-/* ===== Second section ends here===== */
+    /* ===== Second section ends here===== */
+
+   /* ===== Third section starts here===== */
+
+  
+   .thirdsection{
+     border: 3px solid tomato;
+     display: flex;
+     flex-direction: row;
+   }
+    
+
+   .thirdsection-rightdiv{
+    border: 3px solid black;
+    height: 460px;
+    width: 340px;  
+   }
+   .thirdsection-leftdiv{
+    border: 3px solid purple;
+    width: 340px;
+    height: 460px;
+      
+   }
+
+  /* ===== Third section ends here===== */
   
     
